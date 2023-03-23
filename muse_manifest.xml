@@ -1,0 +1,734 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ism.com.hk" ftp_rootfolder="/public_html/ipad" exportTarget="FTP" domain="ism.com.hk/ipad" resolutions="1x,2x" timestamp="1497188062249">
+  <folder name="css">
+    <file name="site_global.css" crc="4158123361"/>
+    <file name="inside.css" crc="508290625" ref="inside"/>
+    <file name="index.css" crc="4213412562" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="inside:index"/>
+    <file name="museutils.js" crc="4232573551" ref="inside:index"/>
+    <file name="whatinput.js" crc="86476730" ref="inside:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="inside:index"/>
+    <file name="webpro.js" crc="3770351119" ref="inside"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="inside"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="inside"/>
+    <file name="touchswipe.js" crc="3912873526" ref="inside"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="inside"/>
+    <file name="require.js" crc="4234670167" ref="inside:index"/>
+  </folder>
+  <folder name="images">
+    <file name="sepertae-screenleft.jpg" crc="4107281880" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="sepertae-screenleft_2x.jpg" crc="4101398283" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="inside"/>
+    <file name="wood_btn.png" crc="378730326" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="wood_btn_2x.png" crc="3832691491" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8556.png" crc="404044728" ref="inside"/>
+    <file name="u8556_2x.png" crc="389171905" ref="inside"/>
+    <file name="u8556-a.png" crc="404044728" ref="inside"/>
+    <file name="u8556-a_2x.png" crc="389171905" ref="inside"/>
+    <file name="u8554.png" crc="4191691327" ref="inside"/>
+    <file name="u8554_2x.png" crc="3778300905" ref="inside"/>
+    <file name="u8554-a.png" crc="4191691327" ref="inside"/>
+    <file name="u8554-a_2x.png" crc="3778300905" ref="inside"/>
+    <file name="u8545.png" crc="24541257" ref="inside"/>
+    <file name="u8545_2x.png" crc="278400839" ref="inside"/>
+    <file name="u8545-a.png" crc="24541257" ref="inside"/>
+    <file name="u8545-a_2x.png" crc="278400839" ref="inside"/>
+    <file name="u8550.png" crc="380662048" ref="inside"/>
+    <file name="u8550_2x.png" crc="3917816266" ref="inside"/>
+    <file name="u8550-a.png" crc="380662048" ref="inside"/>
+    <file name="u8550-a_2x.png" crc="3917816266" ref="inside"/>
+    <file name="u8543.png" crc="4153237581" ref="inside"/>
+    <file name="u8543_2x.png" crc="4267264327" ref="inside"/>
+    <file name="u8543-a.png" crc="4153237581" ref="inside"/>
+    <file name="u8543-a_2x.png" crc="4267264327" ref="inside"/>
+    <file name="u8547.png" crc="3777849597" ref="inside"/>
+    <file name="u8547_2x.png" crc="178427121" ref="inside"/>
+    <file name="u8547-a.png" crc="3777849597" ref="inside"/>
+    <file name="u8547-a_2x.png" crc="178427121" ref="inside"/>
+    <file name="u8552.png" crc="4032763162" ref="inside"/>
+    <file name="u8552_2x.png" crc="4070106843" ref="inside"/>
+    <file name="u8552-a.png" crc="4032763162" ref="inside"/>
+    <file name="u8552-a_2x.png" crc="4070106843" ref="inside"/>
+    <file name="right-u8360-fr.png" crc="3840362083" ref="inside"/>
+    <file name="right-u8360-fr_2x.png" crc="358233939" ref="inside"/>
+    <file name="wood_popup_based.png" crc="4288912788" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1213x1570.jpg" crc="3796318482" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1213x1570_2x.jpg" crc="4146213145" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u10409-4.png" crc="4002145305" ref="inside"/>
+    <file name="u10409-4_2x.png" crc="4225185987" ref="inside"/>
+    <file name="u10406-4.png" crc="4104509618" ref="inside"/>
+    <file name="u10406-4_2x.png" crc="4013484497" ref="inside"/>
+    <file name="wood_popup_title.png" crc="3765311124" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="wood_popup_title_2x.png" crc="4191147771" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8470-4.png" crc="404044728" ref="inside"/>
+    <file name="u8470-4_2x.png" crc="389171905" ref="inside"/>
+    <file name="u8471-8.png" crc="4067699159" ref="inside"/>
+    <file name="u8471-8_2x.png" crc="334591894" ref="inside"/>
+    <file name="u8466-7.png" crc="452789711" ref="inside"/>
+    <file name="u8466-7_2x.png" crc="386520396" ref="inside"/>
+    <file name="u8479-4.png" crc="4191691327" ref="inside"/>
+    <file name="u8479-4_2x.png" crc="3778300905" ref="inside"/>
+    <file name="u8478-8.png" crc="3760570278" ref="inside"/>
+    <file name="u8478-8_2x.png" crc="241852356" ref="inside"/>
+    <file name="pasted image 1594x754.png" crc="100609724" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1594x754_2x.png" crc="536794392" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8485-7.png" crc="3994062936" ref="inside"/>
+    <file name="u8485-7_2x.png" crc="4048795176" ref="inside"/>
+    <file name="u8365-4.png" crc="4249607069" ref="inside"/>
+    <file name="u8365-4_2x.png" crc="196689975" ref="inside"/>
+    <file name="u8364-8.png" crc="4149493308" ref="inside"/>
+    <file name="u8364-8_2x.png" crc="408013051" ref="inside"/>
+    <file name="u8369-7.png" crc="4237637091" ref="inside"/>
+    <file name="u8369-7_2x.png" crc="285313722" ref="inside"/>
+    <file name="pasted image 1113x1222.png" crc="3875409922" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1113x1222_2x.png" crc="459454411" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8451-4.png" crc="380662048" ref="inside"/>
+    <file name="u8451-4_2x.png" crc="3917816266" ref="inside"/>
+    <file name="u8452-8.png" crc="4187568004" ref="inside"/>
+    <file name="u8452-8_2x.png" crc="473353937" ref="inside"/>
+    <file name="pasted image 546x805.png" crc="3970197729" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 546x805_2x.png" crc="4166666132" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u10431-7.png" crc="3941865749" ref="inside"/>
+    <file name="u10431-7_2x.png" crc="91673211" ref="inside"/>
+    <file name="u8426-4.png" crc="4153237581" ref="inside"/>
+    <file name="u8426-4_2x.png" crc="4267264327" ref="inside"/>
+    <file name="u8428-8.png" crc="105731804" ref="inside"/>
+    <file name="u8428-8_2x.png" crc="4172912887" ref="inside"/>
+    <file name="pasted image 2349x2392.png" crc="3775600199" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 2349x2392_2x.png" crc="190168562" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u10413-7.png" crc="4281140856" ref="inside"/>
+    <file name="u10413-7_2x.png" crc="431678378" ref="inside"/>
+    <file name="u8398-4.png" crc="3777849597" ref="inside"/>
+    <file name="u8398-4_2x.png" crc="178427121" ref="inside"/>
+    <file name="u8400-8.png" crc="51008921" ref="inside"/>
+    <file name="u8400-8_2x.png" crc="4020882168" ref="inside"/>
+    <file name="pasted image 1245x1843.png" crc="4049759440" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1245x1843_2x.png" crc="523674004" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u10453-6.png" crc="214118718" ref="inside"/>
+    <file name="u10453-6_2x.png" crc="4088609129" ref="inside"/>
+    <file name="u8523-4.png" crc="4052060333" ref="inside"/>
+    <file name="u8523-4_2x.png" crc="309525459" ref="inside"/>
+    <file name="u8521-8.png" crc="4274122089" ref="inside"/>
+    <file name="u8521-8_2x.png" crc="43895063" ref="inside"/>
+    <file name="u10465-7.png" crc="50881047" ref="inside"/>
+    <file name="u10465-7_2x.png" crc="4021145706" ref="inside"/>
+    <file name="pasted image 1234x1138.png" crc="3906377486" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1234x1138_2x.png" crc="4217750949" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="wood_popup_close.png" crc="3847171716" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="wood_popup_close_2x.png" crc="4057585410" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="mainpage 2.png" crc="438485952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mainpage 2_2x.png" crc="331758851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="startbtn.png" crc="158026586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 1113x1222152x167.png" crc="3780141006" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1113x1222152x167_2x.png" crc="4196748188" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_title.png" crc="155493749" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_btn.png" crc="4153877026" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_btn_2x.png" crc="4066534941" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u7906.png" crc="315539891" ref="inside"/>
+    <file name="u7906_2x.png" crc="394294581" ref="inside"/>
+    <file name="u7906-a.png" crc="315539891" ref="inside"/>
+    <file name="u7906-a_2x.png" crc="394294581" ref="inside"/>
+    <file name="u7904.png" crc="4026906854" ref="inside"/>
+    <file name="u7904_2x.png" crc="4206605527" ref="inside"/>
+    <file name="u7904-a.png" crc="4026906854" ref="inside"/>
+    <file name="u7904-a_2x.png" crc="4206605527" ref="inside"/>
+    <file name="u7912.png" crc="152146876" ref="inside"/>
+    <file name="u7912_2x.png" crc="333015236" ref="inside"/>
+    <file name="u7912-a.png" crc="152146876" ref="inside"/>
+    <file name="u7912-a_2x.png" crc="333015236" ref="inside"/>
+    <file name="u7908.png" crc="4167984508" ref="inside"/>
+    <file name="u7908_2x.png" crc="4218603853" ref="inside"/>
+    <file name="u7908-a.png" crc="4167984508" ref="inside"/>
+    <file name="u7908-a_2x.png" crc="4218603853" ref="inside"/>
+    <file name="u7914.png" crc="4125035997" ref="inside"/>
+    <file name="u7914_2x.png" crc="4091111366" ref="inside"/>
+    <file name="u7914-a.png" crc="4125035997" ref="inside"/>
+    <file name="u7914-a_2x.png" crc="4091111366" ref="inside"/>
+    <file name="u7916.png" crc="3904294978" ref="inside"/>
+    <file name="u7916_2x.png" crc="3913654672" ref="inside"/>
+    <file name="u7916-a.png" crc="3904294978" ref="inside"/>
+    <file name="u7916-a_2x.png" crc="3913654672" ref="inside"/>
+    <file name="u7910.png" crc="154034082" ref="inside"/>
+    <file name="u7910_2x.png" crc="3917464470" ref="inside"/>
+    <file name="u7910-a.png" crc="154034082" ref="inside"/>
+    <file name="u7910-a_2x.png" crc="3917464470" ref="inside"/>
+    <file name="u7919.png" crc="4122875644" ref="inside"/>
+    <file name="u7919_2x.png" crc="211561020" ref="inside"/>
+    <file name="u7919-a.png" crc="4122875644" ref="inside"/>
+    <file name="u7919-a_2x.png" crc="211561020" ref="inside"/>
+    <file name="sepertae-screenleft-u7920-fr.png" crc="306109468" ref="inside"/>
+    <file name="sepertae-screenleft-u7920-fr_2x.png" crc="280634558" ref="inside"/>
+    <file name="ocean_title_based.png" crc="3981570902" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_title_based_2x.png" crc="3949424078" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_title_nobtn.png" crc="4269094271" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_title_nobtn_2x.png" crc="4169964606" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u7927-7.png" crc="4291908713" ref="inside"/>
+    <file name="u7927-7_2x.png" crc="336086234" ref="inside"/>
+    <file name="u7926-7.png" crc="3877097627" ref="inside"/>
+    <file name="u7926-7_2x.png" crc="364487976" ref="inside"/>
+    <file name="u8034-7.png" crc="4042570383" ref="inside"/>
+    <file name="u8034-7_2x.png" crc="313620053" ref="inside"/>
+    <file name="u8043-4.png" crc="413154230" ref="inside"/>
+    <file name="u8043-4_2x.png" crc="4270220851" ref="inside"/>
+    <file name="pasted image 764x1500.png" crc="3832238492" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 764x1500_2x.png" crc="378048609" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8017-8.png" crc="506537605" ref="inside"/>
+    <file name="u8017-8_2x.png" crc="419553765" ref="inside"/>
+    <file name="u8003-4.png" crc="3792710642" ref="inside"/>
+    <file name="u8003-4_2x.png" crc="3813947834" ref="inside"/>
+    <file name="u8002-8.png" crc="3804111141" ref="inside"/>
+    <file name="u8002-8_2x.png" crc="490436714" ref="inside"/>
+    <file name="pasted image 1290x931.png" crc="4052387624" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1290x931_2x.png" crc="502861745" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u10330-4.png" crc="4032787404" ref="inside"/>
+    <file name="u10330-4_2x.png" crc="4211467626" ref="inside"/>
+    <file name="u10328-9.png" crc="4249124799" ref="inside"/>
+    <file name="u10328-9_2x.png" crc="4001561900" ref="inside"/>
+    <file name="u10381-7.png" crc="532718092" ref="inside"/>
+    <file name="u10381-7_2x.png" crc="4270398049" ref="inside"/>
+    <file name="pasted image 1546x1004.png" crc="4240204255" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1546x1004_2x.png" crc="3809784779" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u7970-4.png" crc="3921356943" ref="inside"/>
+    <file name="u7970-4_2x.png" crc="3890855984" ref="inside"/>
+    <file name="u7971-9.png" crc="335263711" ref="inside"/>
+    <file name="u7971-9_2x.png" crc="94616611" ref="inside"/>
+    <file name="u7976-7.png" crc="3759468760" ref="inside"/>
+    <file name="u7976-7_2x.png" crc="4044807405" ref="inside"/>
+    <file name="pasted image 1103x744.png" crc="3818403415" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1103x744_2x.png" crc="3991900526" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u7941-4.png" crc="4165517206" ref="inside"/>
+    <file name="u7941-4_2x.png" crc="4181386231" ref="inside"/>
+    <file name="u7943-9.png" crc="440170323" ref="inside"/>
+    <file name="u7943-9_2x.png" crc="3935320259" ref="inside"/>
+    <file name="u7933-7.png" crc="3963702791" ref="inside"/>
+    <file name="u7933-7_2x.png" crc="15052669" ref="inside"/>
+    <file name="pasted image 949x901.png" crc="97426293" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 949x901_2x.png" crc="154585502" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8068-4.png" crc="3901518117" ref="inside"/>
+    <file name="u8068-4_2x.png" crc="110232418" ref="inside"/>
+    <file name="u8066-9.png" crc="350037740" ref="inside"/>
+    <file name="u8066-9_2x.png" crc="267106824" ref="inside"/>
+    <file name="u8058-7.png" crc="75831050" ref="inside"/>
+    <file name="u8058-7_2x.png" crc="198990041" ref="inside"/>
+    <file name="pasted image 329x201.png" crc="3788266912" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u7967-4.png" crc="256123890" ref="inside"/>
+    <file name="u7967-4_2x.png" crc="268354643" ref="inside"/>
+    <file name="u7965-10.png" crc="3993218133" ref="inside"/>
+    <file name="u7965-10_2x.png" crc="3886763830" ref="inside"/>
+    <file name="u7962-7.png" crc="3941581262" ref="inside"/>
+    <file name="u7962-7_2x.png" crc="4043281947" ref="inside"/>
+    <file name="pasted image 948x713.png" crc="383772924" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 948x713_2x.png" crc="3963221655" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u7982-4.png" crc="4060432085" ref="inside"/>
+    <file name="u7982-4_2x.png" crc="4200161811" ref="inside"/>
+    <file name="u7981-11.png" crc="4115520556" ref="inside"/>
+    <file name="u7981-11_2x.png" crc="295359342" ref="inside"/>
+    <file name="u7987-7.png" crc="450107601" ref="inside"/>
+    <file name="u7987-7_2x.png" crc="29771041" ref="inside"/>
+    <file name="pasted image 768x763.png" crc="473663594" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 768x763_2x.png" crc="493968380" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_title_closebtn.png" crc="3950816424" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_title_closebtn_2x.png" crc="4075175542" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_control.png" crc="118275416" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="ocean_control_2x.png" crc="162313985" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 213x211.png" crc="442100649" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 213x211_2x.png" crc="308294340" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="egret.png" crc="467380188" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="egret_2x.png" crc="85285446" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="sepertae-screenmiddle.jpg" crc="4122267538" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="sepertae-screenmiddle_2x.jpg" crc="1960795" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="man_btn.png" crc="3919788041" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="man_btn_2x.png" crc="427120396" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8090.png" crc="518241250" ref="inside"/>
+    <file name="u8090_2x.png" crc="4202095871" ref="inside"/>
+    <file name="u8090-a.png" crc="518241250" ref="inside"/>
+    <file name="u8090-a_2x.png" crc="4202095871" ref="inside"/>
+    <file name="u8088.png" crc="4265303186" ref="inside"/>
+    <file name="u8088_2x.png" crc="4159571771" ref="inside"/>
+    <file name="u8088-a.png" crc="4265303186" ref="inside"/>
+    <file name="u8088-a_2x.png" crc="4159571771" ref="inside"/>
+    <file name="u8102.png" crc="487397932" ref="inside"/>
+    <file name="u8102_2x.png" crc="3871914520" ref="inside"/>
+    <file name="u8102-a.png" crc="487397932" ref="inside"/>
+    <file name="u8102-a_2x.png" crc="3871914520" ref="inside"/>
+    <file name="u8092.png" crc="4261676864" ref="inside"/>
+    <file name="u8092_2x.png" crc="4054302804" ref="inside"/>
+    <file name="u8092-a.png" crc="4261676864" ref="inside"/>
+    <file name="u8092-a_2x.png" crc="4054302804" ref="inside"/>
+    <file name="u8100.png" crc="4188039151" ref="inside"/>
+    <file name="u8100_2x.png" crc="4065114734" ref="inside"/>
+    <file name="u8100-a.png" crc="4188039151" ref="inside"/>
+    <file name="u8100-a_2x.png" crc="4065114734" ref="inside"/>
+    <file name="u8082.png" crc="136720405" ref="inside"/>
+    <file name="u8082_2x.png" crc="425980147" ref="inside"/>
+    <file name="u8082-a.png" crc="136720405" ref="inside"/>
+    <file name="u8082-a_2x.png" crc="425980147" ref="inside"/>
+    <file name="u8084.png" crc="4183292019" ref="inside"/>
+    <file name="u8084_2x.png" crc="4289262936" ref="inside"/>
+    <file name="u8084-a.png" crc="4183292019" ref="inside"/>
+    <file name="u8084-a_2x.png" crc="4289262936" ref="inside"/>
+    <file name="u8096.png" crc="373649857" ref="inside"/>
+    <file name="u8096_2x.png" crc="53417878" ref="inside"/>
+    <file name="u8096-a.png" crc="373649857" ref="inside"/>
+    <file name="u8096-a_2x.png" crc="53417878" ref="inside"/>
+    <file name="u8104.png" crc="4193922642" ref="inside"/>
+    <file name="u8104_2x.png" crc="3967512947" ref="inside"/>
+    <file name="u8104-a.png" crc="4193922642" ref="inside"/>
+    <file name="u8104-a_2x.png" crc="3967512947" ref="inside"/>
+    <file name="u8098.png" crc="3843383532" ref="inside"/>
+    <file name="u8098_2x.png" crc="4009256905" ref="inside"/>
+    <file name="u8098-a.png" crc="3843383532" ref="inside"/>
+    <file name="u8098-a_2x.png" crc="4009256905" ref="inside"/>
+    <file name="u8094.png" crc="247641113" ref="inside"/>
+    <file name="u8094_2x.png" crc="4230002118" ref="inside"/>
+    <file name="u8094-a.png" crc="247641113" ref="inside"/>
+    <file name="u8094-a_2x.png" crc="4230002118" ref="inside"/>
+    <file name="middle-u8105-fr.png" crc="4210691891" ref="inside"/>
+    <file name="middle-u8105-fr_2x.png" crc="256481380" ref="inside"/>
+    <file name="man_popup_background.png" crc="473934764" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="man_popup_background_2x.png" crc="4148093419" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="man_popup_title.png" crc="235349926" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="man_popup_title_2x.png" crc="406030881" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="tree176x156.png" crc="4028826540" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="tree176x156_2x.png" crc="418871926" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8169-5.png" crc="3760386438" ref="inside"/>
+    <file name="u8169-5_2x.png" crc="317186148" ref="inside"/>
+    <file name="u8168-4.png" crc="3762936323" ref="inside"/>
+    <file name="u8168-4_2x.png" crc="119495447" ref="inside"/>
+    <file name="u8152-7.png" crc="52062696" ref="inside"/>
+    <file name="u8152-7_2x.png" crc="4162159340" ref="inside"/>
+    <file name="u8164-4.png" crc="518241250" ref="inside"/>
+    <file name="u8164-4_2x.png" crc="4202095871" ref="inside"/>
+    <file name="u8163-10.png" crc="280806128" ref="inside"/>
+    <file name="u8163-10_2x.png" crc="527903770" ref="inside"/>
+    <file name="dwarf.png" crc="4271138408" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8351-7.png" crc="3797696088" ref="inside"/>
+    <file name="u8351-7_2x.png" crc="3774359527" ref="inside"/>
+    <file name="u8344-4.png" crc="4265303186" ref="inside"/>
+    <file name="u8344-4_2x.png" crc="4159571771" ref="inside"/>
+    <file name="u8345-9.png" crc="3813726284" ref="inside"/>
+    <file name="u8345-9_2x.png" crc="4217174303" ref="inside"/>
+    <file name="pasted image 1074x417.png" crc="229925203" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1074x417_2x.png" crc="23125356" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8295-4.png" crc="3996090232" ref="inside"/>
+    <file name="u8295-4_2x.png" crc="457222377" ref="inside"/>
+    <file name="u8296-10.png" crc="3854249878" ref="inside"/>
+    <file name="u8296-10_2x.png" crc="4200582825" ref="inside"/>
+    <file name="u10397-7.png" crc="4280167096" ref="inside"/>
+    <file name="u10397-7_2x.png" crc="4292552667" ref="inside"/>
+    <file name="pasted image 1135x396.png" crc="277283209" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1135x396_2x.png" crc="3844297260" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8180-4.png" crc="487397932" ref="inside"/>
+    <file name="u8180-4_2x.png" crc="3871914520" ref="inside"/>
+    <file name="u8181-11.png" crc="3833832253" ref="inside"/>
+    <file name="u8181-11_2x.png" crc="3769522543" ref="inside"/>
+    <file name="u8186-8.png" crc="279036596" ref="inside"/>
+    <file name="u8186-8_2x.png" crc="118292509" ref="inside"/>
+    <file name="urchin1.png" crc="4075068194" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="urchin1_2x.png" crc="3977705038" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8316-4.png" crc="4261676864" ref="inside"/>
+    <file name="u8316-4_2x.png" crc="4054302804" ref="inside"/>
+    <file name="u8318-12.png" crc="4223653212" ref="inside"/>
+    <file name="u8318-12_2x.png" crc="4151506100" ref="inside"/>
+    <file name="u8308-7.png" crc="4059477914" ref="inside"/>
+    <file name="u8308-7_2x.png" crc="3983339880" ref="inside"/>
+    <file name="u8217-4.png" crc="4188039151" ref="inside"/>
+    <file name="u8217-4_2x.png" crc="4065114734" ref="inside"/>
+    <file name="u8216-12.png" crc="4259409221" ref="inside"/>
+    <file name="u8216-12_2x.png" crc="4173043339" ref="inside"/>
+    <file name="u8231-7.png" crc="298697076" ref="inside"/>
+    <file name="u8231-7_2x.png" crc="3957000584" ref="inside"/>
+    <file name="pasted-svg-809044x527.svg" crc="459371763" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted svg 809044x527_poster_.png" crc="356622497" ref="inside"/>
+    <file name="u8253-4.png" crc="136720405" ref="inside"/>
+    <file name="u8253-4_2x.png" crc="425980147" ref="inside"/>
+    <file name="u8252-13.png" crc="342749588" ref="inside"/>
+    <file name="u8252-13_2x.png" crc="298762699" ref="inside"/>
+    <file name="u8248-8.png" crc="362676523" ref="inside"/>
+    <file name="u8248-8_2x.png" crc="291193476" ref="inside"/>
+    <file name="tree.png" crc="4031750353" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8108-4.png" crc="4183292019" ref="inside"/>
+    <file name="u8108-4_2x.png" crc="4289262936" ref="inside"/>
+    <file name="u8109-14.png" crc="49923073" ref="inside"/>
+    <file name="u8109-14_2x.png" crc="114963046" ref="inside"/>
+    <file name="u8117-7.png" crc="430367218" ref="inside"/>
+    <file name="u8117-7_2x.png" crc="4260030417" ref="inside"/>
+    <file name="pasted image 1679x1101.png" crc="3792483555" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1679x1101_2x.png" crc="3809344590" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8326-4.png" crc="373649857" ref="inside"/>
+    <file name="u8326-4_2x.png" crc="53417878" ref="inside"/>
+    <file name="u8325-8.png" crc="4157947073" ref="inside"/>
+    <file name="u8325-8_2x.png" crc="277727491" ref="inside"/>
+    <file name="u8336-7.png" crc="95701521" ref="inside"/>
+    <file name="u8336-7_2x.png" crc="489123196" ref="inside"/>
+    <file name="pasted image 1405x1295.png" crc="402928397" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1405x1295_2x.png" crc="4242455855" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8272-4.png" crc="4193922642" ref="inside"/>
+    <file name="u8272-4_2x.png" crc="3967512947" ref="inside"/>
+    <file name="u8271-8.png" crc="51274964" ref="inside"/>
+    <file name="u8271-8_2x.png" crc="179779870" ref="inside"/>
+    <file name="u8265-7.png" crc="39482929" ref="inside"/>
+    <file name="u8265-7_2x.png" crc="198414802" ref="inside"/>
+    <file name="pasted-svg-671232x784.svg" crc="3774123663" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted svg 671232x784_poster_.png" crc="319780822" ref="inside"/>
+    <file name="u8197-4.png" crc="3843383532" ref="inside"/>
+    <file name="u8197-4_2x.png" crc="4009256905" ref="inside"/>
+    <file name="u8196-8.png" crc="147750165" ref="inside"/>
+    <file name="u8196-8_2x.png" crc="3869291358" ref="inside"/>
+    <file name="u8207-9.png" crc="345321607" ref="inside"/>
+    <file name="u8207-9_2x.png" crc="55299417" ref="inside"/>
+    <file name="pasted image 1197x2014.png" crc="3759968612" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 1197x2014_2x.png" crc="174479884" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8143-4.png" crc="247641113" ref="inside"/>
+    <file name="u8143-4_2x.png" crc="4230002118" ref="inside"/>
+    <file name="u8142-8.png" crc="3983874652" ref="inside"/>
+    <file name="u8142-8_2x.png" crc="4189188658" ref="inside"/>
+    <file name="u8133-8.png" crc="4288354366" ref="inside"/>
+    <file name="u8133-8_2x.png" crc="185750167" ref="inside"/>
+    <file name="man_popup_close.png" crc="76117047" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="man_popup_close_2x.png" crc="93200969" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="blue_btn_up.png" crc="3858070500" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="blue_btn_up_2x.png" crc="3975546602" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="orange_btn_up.png" crc="4254640725" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="orange_btn_up_2x.png" crc="4105255343" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="man_title.png" crc="150902954" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="man_title_2x.png" crc="431815360" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="nt_control.png" crc="3795617551" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="nt_control_2x.png" crc="261546894" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8086.png" crc="3996090232" ref="inside"/>
+    <file name="u8086_2x.png" crc="457222377" ref="inside"/>
+    <file name="u8086-a.png" crc="3996090232" ref="inside"/>
+    <file name="u8086-a_2x.png" crc="457222377" ref="inside"/>
+    <file name="wood_title.png" crc="124599912" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="wood_title_2x.png" crc="4230311167" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="sepertae-screenright.jpg" crc="3891948106" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="sepertae-screenright_2x.jpg" crc="79327933" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="wood_control.png" crc="4121769081" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="wood_control_2x.png" crc="124543860" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="u8044-8.png" crc="4266918638" ref="inside"/>
+    <file name="u8044-8_2x.png" crc="3779186806" ref="inside"/>
+    <file name="pasted-svg-382297x338.svg" crc="228648592" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted svg 382297x338_poster_.png" crc="4115294908" ref="inside"/>
+    <file name="pasted image 388x338.png" crc="3839937340" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 388x338_2x.png" crc="377253992" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 524x328.png" crc="3881710970" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 524x328_2x.png" crc="277748742" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 623x552.png" crc="432180665" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 623x552_2x.png" crc="40531011" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 348x322.png" crc="480209830" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 348x322_2x.png" crc="347877199" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 236x285.png" crc="4128896249" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 236x285_2x.png" crc="357378835" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 324x272.png" crc="3832292145" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+    <file name="pasted image 324x272_2x.png" crc="406469711" seo="true" ref="inside">
+      <caption webpage="inside" alt=""/>
+    </file>
+  </folder>
+  <file name="inside.html" crc="157808144" seo="true" mt="1497188013297" redirect="true"/>
+  <file name="index.html" crc="327978480" seo="true" mt="1496923028902" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="sub" uid="U8751"/>
+    <paragraphStyle className="Orange-italic" uid="U8887"/>
+    <paragraphStyle className="green-style" uid="U9528"/>
+    <paragraphStyle className="Blue-bold" uid="U10273"/>
+    <paragraphStyle className="Blue-italic" uid="U10274"/>
+    <paragraphStyle className="Inside-Chinese-text" uid="U10275"/>
+    <paragraphStyle className="Inside-Engtext" uid="U10276"/>
+    <paragraphStyle className="Orange-bold" uid="U10396"/>
+    <paragraphStyle className="Green-bold" uid="U10412"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="inside" filename="inside.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U83" maxwidth="1224" minwidth="0" squishy="false"/>
+        <anchor name="Section2" html_id="section2" muse_href="anchor:U82:U7878" includeInBPs="U83"/>
+        <anchor name="Section1" html_id="section1" muse_href="anchor:U82:U7879" includeInBPs="U83"/>
+        <anchor name="Section3" html_id="section3" muse_href="anchor:U82:U7880" includeInBPs="U83"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1224" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1224" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="main" filename="index.html" muse_href="page:U1535" master="U72">
+        <breakpoint uid="U1507" maxwidth="1224" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
